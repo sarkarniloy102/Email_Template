@@ -1,0 +1,9 @@
+@media screen and (max-width:600px) {
+
+     img:third-img{
+         width: 200px!important;
+         max-width: 200px!important;
+
+     }
+    
+}

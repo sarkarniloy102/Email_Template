@@ -1,0 +1,175 @@
+*body{
+    margin: 0;
+    padding: 0;
+    background-color: #f6f9f6;
+}
+
+table{
+    border-spacing: 0;
+}
+td{
+    padding: 0;
+}
+img{
+    border: 0;
+}
+
+.wrapper{
+    width: 100%;
+    table-layout: fixed;
+    background-color: #f6f9f6;
+    padding-bottom: 40px;
+}
+
+.webkit{
+    max-width: 600px;
+    background-color: #ffffff;
+}
+
+.outer{
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 600px;
+    border-spacing: 0;
+    font-family: sans-serif;
+    color: #4a4a4a;
+}
+
+.table2{
+    width: 100%;
+    border-spacing: 0;
+}
+.data2{
+    background-color: #9cb9cf;
+    padding: 10px;
+    text-align: center;
+}
+
+.data2 img{
+    width: 180px;
+}
+.data3 img{
+    width: 600px;
+    height: 500px;
+}
+
+.table3{
+    width: 100%;
+    border-spacing: 0;
+}
+
+.three-columns{
+    text-align: center;
+    font-size: 0;
+    padding-top: 40px;
+    padding-bottom: 30px;
+
+}
+
+.three-columns .column{
+    width: 100%;
+    max-width: 200px;
+  display:inline-block;
+  vertical-align: top;
+    
+}
+
+.padding{
+    padding: 15px;
+}
+.three-columns .content{
+      font-size: 15px;
+      line-height: 20px;
+}
+.content img{
+    width: 150px;
+    max-width: 150px;
+}
+.image2 img{
+    max-width: 100%;
+}
+
+.data4{
+    padding: 10px;
+}
+
+.data4 p:nth-child(1)
+{
+    font-size: 17px;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+    color: #388cda;
+    font-size: 16px;
+}
+
+.footer{
+    width: 100%;
+    border-spacing: 0;
+}
+
+.ftr_data{
+    text-align: center;
+    padding: 15px;
+    background-color: #388cda;
+}
+
+.ftr_data p{
+    font-size: 18px;
+    color: #ffffff;
+    margin-bottom: 13px;
+}
+
+.ftr_data img{
+    width: 40px;
+}
+
+.data5{
+    background-color: #efefef;
+}
+.table5{
+    width: 100%;
+    border-spacing: 0;
+}
+.data6{
+    padding: 20px;
+    text-align: center;
+}
+
+.data6 img{
+    width: 160px;
+}
+.data6 p:nth-child(2)
+{
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.data6 p:nth-child(3)
+{
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.rown{
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+.rown p a{
+
+   font-size: 13px;
+    
+}
+
+.data7{
+    background-color: #388cda;
+}
+.data7 p{
+    color: #efefef;
+    text-align: center;
+    font-size: 15px;
+}
